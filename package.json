@@ -1,0 +1,22 @@
+{
+  "name": "prac4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "servers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeenuDissanayaka/SIT725-2023-Practical4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeenuDissanayaka/SIT725-2023-Practical4/issues"
+  },
+  "homepage": "https://github.com/DeenuDissanayaka/SIT725-2023-Practical4#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
